@@ -39,7 +39,7 @@ export function Head({
 }
 
 Head.defaultProps = {
-  author: 'YOUR_NAME',
+  author: 'Anwar Hossain',
   description:
     'A highly opinionated and complete starter for Next.js projects ready to production. Includes Typescript, Styled Components, Prettier, ESLint, Husky, SEO, and more.',
   keywords:
