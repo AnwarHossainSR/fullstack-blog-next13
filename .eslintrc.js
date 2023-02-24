@@ -39,6 +39,7 @@ module.exports = {
     '@typescript-eslint/no-use-before-define': ['error'],
     'consistent-return': 'error',
     'import/extensions': 'off',
+    'react/require-default-props': 'off',
     'import/order': [
       'warn',
       {
