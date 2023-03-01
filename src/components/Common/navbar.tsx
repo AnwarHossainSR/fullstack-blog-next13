@@ -75,7 +75,7 @@ export default function Navbar() {
 
           <div className="flex justify-between w-full md:w-auto">
             <Link href="/" className="w-28 dark:hidden">
-              <Image src={Logo} alt="logo" loader={myLoader} />
+              <Image src={Logo} alt="logo" loader={myLoader} width="100" />
             </Link>
 
             <Link href="/" className="hidden w-28 dark:block">
