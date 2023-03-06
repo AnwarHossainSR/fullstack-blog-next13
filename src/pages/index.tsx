@@ -7,7 +7,7 @@ export default function HomePage() {
       <Head />
       <MainLayout>
         <section className="p-8 flex flex-col h-full justify-center items-center">
-          <h1 className="text-3xl font-bold font-poppins">Next Starter ⚡</h1>
+          <h1 className="text-3xl font-bold font-poppins">Next Blog</h1>
         </section>
       </MainLayout>
     </>

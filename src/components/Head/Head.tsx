@@ -49,5 +49,5 @@ Head.defaultProps = {
   ogImage: 'https://next-starter-ebon.vercel.app/images/og.png',
   ogTitle: 'Next Starter ⚡️: Ready to production',
   ogUrl: 'https://next-starter-ebon.vercel.app/',
-  title: 'Next Starter',
+  title: 'Next Blog',
 };
