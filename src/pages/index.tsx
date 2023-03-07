@@ -13,7 +13,7 @@ export default function HomePage() {
           <Container className="flex flex-col justify-center items-center">
             <div className="grid gap-10 lg:gap-10 md:grid-cols-2">
               {posts.slice(0, 2).map((item: any) => (
-                <Post key={item._id} post={item} aspect="landscape" />
+                <Post key={item._id} post={item} />
               ))}
             </div>
           </Container>
