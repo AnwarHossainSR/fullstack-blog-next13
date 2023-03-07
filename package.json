@@ -26,6 +26,7 @@
     "*.{js,jsx,ts,tsx}": "eslint --cache --fix --cache-location ./node_modules/.cache/.eslintcache"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.6",
     "@next/bundle-analyzer": "^13.1.6",
     "date-fns": "^2.29.3",
     "next": "^13.1.6",
