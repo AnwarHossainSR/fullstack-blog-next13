@@ -187,4 +187,4 @@ It should be 1200x630px to fit most social media.
 
 ## Mantainers
 
-- [`Ema Lorenzo 🐦 @emalorenzo_`](https://twitter.com/emalorenzo_)
+- [`Anwar Hossain 🐦 @anwarsr`](https://twitter.com/anwarsr)
