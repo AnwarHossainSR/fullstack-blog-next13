@@ -11,8 +11,8 @@ export default function HomePage() {
       <MainLayout>
         <section className="p-8 flex flex-col h-full justify-center items-center">
           <Container className="flex flex-col justify-center items-center">
-            <div className="grid gap-10 lg:gap-10 md:grid-cols-2">
-              {posts.slice(0, 2).map((item: any) => (
+            <div className="grid gap-10 mt-10 lg:gap-10 md:grid-cols-3 xl:grid-cols-4 ">
+              {posts.map((item: any) => (
                 <Post key={item._id} post={item} />
               ))}
             </div>
